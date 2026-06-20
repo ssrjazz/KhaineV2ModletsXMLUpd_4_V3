@@ -1,0 +1,5 @@
+﻿<configs>
+	<append xpath="/xui//window_group[@name='compass']">
+		<window name="windowTargetBar" anchor="CenterTop" />
+	</append>
+</configs>
